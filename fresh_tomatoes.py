@@ -40,7 +40,7 @@ main_page_head = '''
         .movie-tile:hover {
             background-color: #EEE;
             cursor: pointer;
-            background-image:url(image4.jpeg);
+            background-image:url(img/image4.jpeg);
         }
         .scale-media {
             padding-bottom: 56.25%;
@@ -53,7 +53,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-image:url(cartoon.jpeg);
+            background-image:url(img/cartoon.jpeg);
         }
         img{
                 border-radius:35%;
@@ -95,7 +95,7 @@ main_page_head = '''
 '''
 
 main_page_content = '''
-  <body style=background-image:url(white.jpeg);>
+  <body style=background-image:url(img/white.jpeg);>
   <center><br>
     <!-- Trailer Video Modal -->
     <div class="modal" id="trailer">

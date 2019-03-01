@@ -1,1 +1,1 @@
-# movie_trailer project
+# movie_trailer Udacity project
